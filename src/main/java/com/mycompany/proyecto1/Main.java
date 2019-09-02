@@ -11,6 +11,6 @@ package com.mycompany.proyecto1;
  */
 public class Main {
     public static void main(String[]arg){
-        System.out.println("Practica de Comentarios");
+        System.out.println("Hello Word");
     }
 }
